@@ -1,4 +1,4 @@
----
+<img width="1984" height="2976" alt="sh8269@nyu edu-94e76672" src="https://github.com/user-attachments/assets/d20df11f-7c50-4c77-b847-19ad4f934ed9" />---
 layout: about
 title: about
 permalink: /
@@ -6,7 +6,7 @@ subtitle: Applied Behavioral Economist
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sh8269@nyu.edu-94e76672.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>New York City, NY</p>
